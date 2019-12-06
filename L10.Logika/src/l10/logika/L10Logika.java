@@ -6,11 +6,11 @@
 package l10.logika;
 
 /**
- * NAMA  : Cahya Satria Gumelar
- * NIM   : A2.1900028
- * Kelas : TI-1A
+ * NAMA  : INDRAWAN SURYA R
+ * NIM   : A2.1900084
+ * Kelas : TI-1C
  * 
- * @author CahyaSatriaGumelar
+ * @author IndrawanSuryaR
  */
 public class L10Logika {
 
